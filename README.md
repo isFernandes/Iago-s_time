@@ -1,4 +1,4 @@
-# Iago-s_time
+# Iago's Time
 ## Aplicação desenvolvida durante curso Sujeito Programador
 
 A aplicação é um cronometro em que você inicia o relogio, pausa e limpa o cronometro exibindo o ultimo horario dele.
